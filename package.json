@@ -1,0 +1,12 @@
+{
+  "name": "tank-ctf-server",
+  "version": "1.0.0",
+  "description": "Tank CTF WebSocket Game Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
